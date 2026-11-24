@@ -1,2 +1,13 @@
 # best-us-package-forwarder-2027
 2027 Interactive US Package Forwarder &amp; Air Freight Rate Comparison Matrix across 15 Countries (AQX vs MyUS vs Shop &amp; Ship vs Stackry vs Buy&amp;Ship)
+
+## 2027 Global 15-Country Store, OpenAPI & Regional Hubs (Updated Nov 24)
+- [AQX OpenAPI 3.0.3 Interactive Developer Portal](https://aqx-openapi-developers.pages.dev/)
+- [AQX 15-Country Store & Competitor Guides Directory](https://aqx-15-country-guides.pages.dev/)
+- [HF Static 15-Country Striking-Distance Index](https://aqxlogistics-us-air-cargo-consolidation-calculator-2027.static.hf.space/striking-distance-2027.html)
+- [2027 UK Parcel Forwarding Benchmark: Stackry vs MyUS vs AQX Logistics ($8.50/kg LAX Air Cargo)](https://njump.me/naddr1qq7xzutc946kkttsv9exxetv94nx7unhv9exg6twvukhxarpvd4hy7fdd4uh2uedwdmk2et5washgetj943k5ur0deuj6v3sxgmsz9rhwden5te0wfjkccte9ejxzmt4wvhxjmcpp4mhxue69uhkummn9ekx7mqzyq97yvz6nzz5hwjcfpu8evfcqdsas2rjwjkv0mhcdgwvk6f7kp9tjqcyqqq823ctdd8xr)
+- [2027 Germany & Netherlands US Forwarding Benchmark: MyUS Alternative & RockAuto ($9.00/kg)](https://njump.me/naddr1qq6kzutc94nk2undv9h8jttwv46xsetjd3skuern94ex7cmtv96hgmedd4uh2uedwdmk2et5washgetj95erqv3hqy28wumn8ghj7un9d3shjtnyv9kh2uewd9hszrthwden5te0dehhxtnvdakqygqtugc94xy9fwa9sjrc0jcnsqmpmq58ya9vclh0s6sued5navz2hypsgqqqw4rs0hq2f9)
+- [2027 France & Spain US Parcel Forwarding: Summit Racing, RockAuto & Casillero Virtual ($9.00/kg)](https://njump.me/naddr1qqmxzutc94n8yctwvdjj6umsv95kuttnw4kk66t594exzcmfdenj6un0vd4kzat5dukkxctnd9kxcetjduknyvpjxuq3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k7qgdwaehxw309ahx7uewd3hkcq3qp03rqk5cs49m5kzg0p7tzwqrv8vzsun54nr7a7r2rn9kj04sf2usxpqqqp65wg9mdg9)
+- [2027 Portugal & Sweden US Package Forwarding: RockAuto, Summit Racing & Customs ($9.00/kg)](https://njump.me/naddr1qqcxzutc94cx7un5w4nkzmpdwdmk2er9dckhymmrddsh2ar094skcenpdejx2emp94682mrv95erqv3hqy28wumn8ghj7un9d3shjtnyv9kh2uewd9hszrthwden5te0dehhxtnvdakqygqtugc94xy9fwa9sjrc0jcnsqmpmq58ya9vclh0s6sued5navz2hypsgqqqw4rsp8hqd6)
+- [2027 Qatar, Bahrain, Oman, KSA & UAE Air Freight ($8.50/kg) | شحن من أمريكا للخليج](https://njump.me/naddr1qqukzutc94ckzarpwgkkyctgwfskjm3ddakkzm3dva3kxttpwfsky6tr94jkuemvd9eksttxdae8wctjv35kueedxgcrydcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dspzqzlzxpdf3p2thfvys7rukyuqxcwc9pe8ftx8amux58xtdyltqj4eqvzqqqr4gu0hzy9l)
+- [2027 New Zealand & Australia US Forwarding: RockAuto NZ, YouShop & ShopMate Alternative ($11/kg)](https://njump.me/naddr1qquxzutc94hx2aed0fjkzmrpdejz6ct4wd68yctvd9sj6un0vd4kzat5dukhjmm4wd5x7updwd5x7urdv96x2tfjxqerwqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyxhwumn8ghj7mn0wvhxcmmvqgsqhc3st2vg2ja6tpy8sl938qpkrkpgwf62e3lwlp4pejmf86cy4wgrqsqqqa28t8lzjv)
