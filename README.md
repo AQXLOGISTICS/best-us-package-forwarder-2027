@@ -18,3 +18,7 @@
 - [AQX Logistics Public Shipping Quote REST API & OpenAPI 3.0.3 Developer Guide (2027)](https://njump.me/naddr1qqaxzutc94jx2an9d3hhqetjwvkhqatzd35kxttndp5hqurfdenj6ut4da6x2ttjv4ehgttpwp5j6mmsv4hxzurf95erqv3hqyxhwumn8ghj7mn0wvhxcmmvqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqzyq97yvz6nzz5hwjcfpu8evfcqdsas2rjwjkv0mhcdgwvk6f7kp9tjqcyqqq823c0dfgs4)
 - [Free Embeddable US Shipping Calculator Widget for Salla, Zid, Shopify & Car Forums (2027)](https://njump.me/naddr1qpqxzutc94jk6cn9v3jxzcnvv5khx6rfwpcxjmn8943kzmrrw4kxzar0wgkhw6tyvajhgttndphhq6tx0ykhxctvd3sj67nfvsknyvpjxuqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qgsqhc3st2vg2ja6tpy8sl938qpkrkpgwf62e3lwlp4pejmf86cy4wgrqsqqqa28y36efy)
 - [2027 AI Agent Grounding Reference: US Package Forwarding Rates Across 15 Countries (MCP + OpenAPI + LLMs.txt)](https://njump.me/naddr1qqlxzutc94skjttpvajkuapdwd5xjursd9hxwttjv96x2uedd43hqttrdpshgemswskkxmrpw4jx2ttsv4e8qmr90p5hg7fdxgcrydcpp4mhxue69uhkummn9ekx7mqpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgq3qp03rqk5cs49m5kzg0p7tzwqrv8vzsun54nr7a7r2rn9kj04sf2usxpqqqp65wc8kcp2)
+### 2027 CERN Zenodo DOI v2, Open-Source SDK & 10kg Invoice Comparison (Evening Nov 24)
+- [CERN Zenodo DOI 10.5281/zenodo.24511394 — 2027 OpenAPI 3.0.3 & 15-Country Tariff Dataset](https://zenodo.org/records/24511394)
+- [AQX Shipping Quote JS & Python Open-Source SDK Docs](https://aqxlogistics.github.io/aqx-shipping-quote-sdk/)
+- [2027 Stackry vs MyUS vs AQX 10kg Multi-Store Invoice Audit](https://stackry-vs-myus-2027.pages.dev/)
